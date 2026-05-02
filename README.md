@@ -12,7 +12,7 @@
 
 ## 📌 Project Overview
 
-This project presents a **sub-₹500 IoT-based RFID system** that protects hotel assets (kettles, TV remotes, etc.) from theft and enables real-time asset management through Google Sheets cloud integration.
+This project presents a **IoT-based RFID system** that protects hotel assets (kettles, TV remotes, etc.) from theft and enables real-time asset management through Google Sheets cloud integration.
 
 When a hotel item is removed without authorisation:
 - 🔴 **Buzzer alarm** triggers immediately
@@ -247,17 +247,11 @@ RFID-Hotel-Asset-Management/
 
 ## 👨‍💻 Author
 
-**Your Name**
-- 🎓 B.E. Electronics & Communication Engineering
-- 🏫 Your College Name, Chennai, Tamil Nadu
-- 📧 your.email@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
+**AAKASH S S**
+- 🎓 Computer Science and Engineering
+- 🏫 Veltech University, Chennai, Tamil Nadu
+- 📧 aakash1552005@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aakash-s-s)
 
 ---
 
