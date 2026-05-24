@@ -260,7 +260,6 @@ RFID-Hotel-Asset-Management/
 - Espressif Systems — ESP32 platform
 - GithubCommunity — MFRC522 library
 - Google — Sheets and Apps Script platform
-- IEEE — Research publication platform
 
 ---
 
