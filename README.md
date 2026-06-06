@@ -242,6 +242,15 @@ RFID-Hotel-Asset-Management/
                │ (Alarm) │  │(Display)│
                └─────────┘  └─────────┘
 ```
+## 👨‍💻 Team
+
+| Name | Roll No |
+|------|---------|
+| Aakash S S | 23UECS0999 |
+| Sanjay G | 23UECS0873 |
+| Allwin Aji | 23UECS0947 |
+
+**Guide:** Dr. , Associate Professor, Dept. of CSE, Vel Tech University
 
 ---
 
